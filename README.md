@@ -1,4 +1,3 @@
-# download-beeper-data
 
 Export all your Beeper messages, media, and contacts to your local machine.
 
